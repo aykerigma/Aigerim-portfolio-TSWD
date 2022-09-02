@@ -3,7 +3,7 @@
 I'm Aigerim, a second year MSPPM student. My pronouns are she/her. I'm from Almaty, Kazakhstan. In my free time I like hiking. 
 This is a picture from a recent hike in Almaty mountains.
 
-<img src = 'C938D137-2CF8-44A6-A793-C0A6B87BF0A9.heic' width = '200'/>
+<img src = 'mountains.jpeg' width = '200'/>
 
 
 # What I hope to learn 
