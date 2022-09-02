@@ -8,9 +8,9 @@ This is a picture from a recent hike in Almaty mountains.
 
 # What I hope to learn 
 
-  #### to organize data 
-  #### to see most important patterns, trends in the data that's worth presenting
-  #### to use visualizations effectively in my narrative
+#### * to organize data 
+#### * to see most important patterns, trends in the data that's worth presenting
+#### * to use visualizations effectively in my narrative
 
 # Portfolio
 
