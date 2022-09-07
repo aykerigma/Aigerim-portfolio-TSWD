@@ -19,8 +19,7 @@ This is a portfolio of works completed for the Telling Stories with Data course
 
 
 
-### Assignment 1 
-#### [Visualizing Government Debt](/debt.md)
+### [Assignment 1 - Visualizing Government Debt](/debt.md)
 
 ### Data visualization critique #1
 ### Data visualization #1
