@@ -1,5 +1,6 @@
 Government debt as percentage of GDP by country, 2021
 
+'''
 file_get_contents(
     string $filename,
     bool $use_include_path = false,
@@ -9,3 +10,4 @@ file_get_contents(
 ): string|false
 
 $html = file_get_contents('https://data.oecd.org/chart/6O4L');
+'''
