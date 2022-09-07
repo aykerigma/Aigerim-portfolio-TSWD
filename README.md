@@ -15,6 +15,11 @@ This is a picture from a recent hike in Almaty mountains.
 # Portfolio
 
 This is a portfolio of works completed for the Telling Stories with Data course
+[link](/debt.md)
+
+
+
+### Assignment 1 - Visualizing Government Debt
 
 ### Data visualization critique #1
 ### Data visualization #1
