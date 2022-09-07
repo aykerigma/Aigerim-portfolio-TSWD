@@ -21,8 +21,6 @@ This is a portfolio of works completed for the Telling Stories with Data course
 
 ### [Assignment 1 - Visualizing Government Debt](/debt.md)
 
-<iframe src="https://data.oecd.org/chart/6O4I" width="100" height="75" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6O4I" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
-
 ### Data visualization critique #1
 ### Data visualization #1
 ### Critique by Design
