@@ -19,7 +19,7 @@ This is a portfolio of works completed for the Telling Stories with Data course
 
 
 ### Assignment - Visualizing Government Debt
-#### [Government debt by country](/debt.md)
+#### * [Government debt by country](/debt.md)
 
 ### Data visualization critique #1
 ### Data visualization #1
