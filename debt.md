@@ -16,3 +16,5 @@ Finally, use Markdown to write a paragraph or two about the different methods of
 * First bar chart is a snapshot of debt in 2021. It's useful at comparing current situation and quickly seeing countries with most and least government debt. It's also obvious that there are no countries without debt. 
 
 * The second grid lines chart carries a lot of information but may be overwhelming. It shows progression, usually the increase of debt across different countries. The big dot at the end of the line draws attention to the most recent value. And since the names of countries are abbreviated, it's not always clear which countries are in the chart. 
+
+* For another way to show this data I chose a dynamic line chart. I wanted to highlight a few countries and their change over 4 years. 
