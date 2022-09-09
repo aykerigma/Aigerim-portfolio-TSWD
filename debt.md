@@ -17,3 +17,5 @@
 * The second grid lines chart carries a lot of information but may be overwhelming. It shows progression, usually the increase of debt across different countries. The big dot at the end of the line draws attention to the most recent value. And since the names of countries are abbreviated, it's not always clear which countries are in the chart. 
 
 * For another way to show this data I chose a dynamic line chart. I wanted to highlight a few countries and their change over 4 years. I think racing lines is a good way to show time. I added a picture of a flag to each country to make it more memorable. To make the visualization clearer, I deleted many countries to really focus on Japan vs a few select countries. 
+
+### [Back to portfolio](/README.md)
