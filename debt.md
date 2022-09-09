@@ -11,7 +11,6 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/11133691"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Reflection
-Finally, use Markdown to write a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization. 
 
 * First bar chart is a snapshot of debt in 2021. It's useful at comparing current situation and quickly seeing countries with most and least government debt. It's also obvious that there are no countries without debt. 
 
