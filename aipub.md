@@ -25,9 +25,49 @@ Instead, this visualization shows us the rise in AI publications since about 201
 
 ### Testing
 
+I talked to 5 people in total. I got great feedback from all of them. 
+
+Professor, 60s 
+  * Linguistics isn't doing well.
+  * The graph is very simple.
+  * Machine learning and pattern recognition are doing very well. 
+
+At first I talked to my mother. And since she's not familiar with the AI topic, I thought if she understands the graph, that would mean the graph is working. However, I also wanted people to get the right kind of conclusion. 
+
+So I asked my roommate for feedback and that's what I got: 
+
+Student, 30s
+  * Maybe change colors, two blues are confusing.
+  * What is control theory? 
+  * I think even a high school student can uderstand this.
+  * Machine learning is blowing up but I knew that already. 
+
+Here I got another confirmation that the chart is easy to read. I started thinking if I should change the colors. And I understood that not all readers are going to understand each row name, such as 'control theory'. Even if I can't explain what it is, I wanted for readers to know at least that it's a subfield of AI. And hopefully people reading this report would already know what AI is. So maybe I could change the title to explain that all bars are fields of AI. 
+
+A third person I talked to was my friend from heinz. These are the insights from my conversation with her: 
+
+Student, 20s
+  * At first attention is drawn to liguistics. 
+  * I like the color pallete.
+  * Add more numbers on the x-axis.
+
+In this conversation, I remembered that the first person I talked to also saw linguistics first. And based on that I decided to change the sorting of bars to show the most relevant and biggest values first. This seems like an obvious thing to do but it didn't occur to me when I was doing the sketch. 
+
+
+Student, 20s
+  * I assumed based on the title that all fields listed here use deep learning. 
+  * What is the x-axis? The number of publications? 
+
+Student, 30s
+  * Why is deep learning in purple? 
+  * I can't read your handwriting. 
+  * The legend is clear.
+
+
+
 ### Building
 
 
-
+ 
 
 ##### [Back to portfolio](/README.md)
