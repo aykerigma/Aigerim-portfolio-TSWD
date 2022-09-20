@@ -23,6 +23,10 @@ Instead, this visualization shows us the rise in AI publications since about 201
 
 ### Sketching 
 
+
+<img src = 'aisketch.jpeg' width = '500'/>
+
+
 ### Testing
 
 I talked to 5 people in total. I got great feedback from all of them. 
