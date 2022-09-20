@@ -23,7 +23,7 @@ Emotive
 • Aesthetics
 • Engagement
 
-This is a good graph. It doesn’t score too low on any of the metrics. The reader can immediately see the dramatic growth of pattern recognition and machine learning publications in the recent years. The colors are not too bright. There’s hierarchy of font sizes. The title describes the graph well. 
+This is a good graph. I would score it high for completeness, truthfulness, intuitiveness, and easthetics. The reader can immediately see the dramatic growth of pattern recognition and machine learning publications in the recent years. The colors are not too bright. There’s hierarchy of font sizes. The title describes the graph well. 
 
 However, I think that this graph can be changed to serve its target audience better. The main problem of this visualization and other graphs in this report is the mismatch between the audience background knowledge on the topic and the chart. The chart looks like it was made for researchers who can draw meaningful conclusions about the difference in publications between computer vision and control theory, for example. 
 
@@ -34,16 +34,14 @@ I think the title should be different. Because in the written part, authors ment
 
 I would change the colors of the lines to highlight only the ones relevant for interpretation. Probably even making all other lines grey and 3-4 lines distinct colors. I would add a couple of vertical lines to mark the dates when certain AI milestones were achieved. 
 
-
-
-
-
 ### Step 2: Sketching 
 
 This is the sketch I made: 
 <img src = 'aisketch.jpeg' width = '500'/>
 
-
+I made a decision to only show number of publications for 2 years: 2016 and 2021. While I'm not displaying all the data available, I think bar charts contain the most relevant information for my audience. 
+With the bar charts, it's easy to show the growth of the past 5 years. Also, bar charts are easy to read, the lines are not entangled. 
+I changed the title to focus on the difference - increase - that is most improtant in this graph. I tried to draw attention to three bars in the bottom by using brighter colors compared to the bars on the top. I thought by doing that I will underline which fields use the deep learning method mentioned in my title. 
 
 ### Step 3: Testing
 
