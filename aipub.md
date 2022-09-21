@@ -12,18 +12,7 @@ __*Source*__
 
 ### Step 1: Crtiquing 
 
-Informative
-• Usefulness
-• Completeness
-• Perceptibility
-• Truthfulness
-• Intuitiveness
-
-Emotive
-• Aesthetics
-• Engagement
-
-This is a good graph. I would score it high for completeness, truthfulness, intuitiveness, and easthetics. The reader can immediately see the dramatic growth of pattern recognition and machine learning publications in the recent years. The colors are not too bright. There’s hierarchy of font sizes. The title describes the graph well. 
+I would score this graph high for completeness, truthfulness, intuitiveness, and easthetics. The reader can immediately see the dramatic growth of pattern recognition and machine learning publications in the recent years. The colors are not too bright. There’s hierarchy of font sizes. The title describes the graph well. Overall, it's a relatively good chart. 
 
 However, I think that this graph can be changed to serve its target audience better. The main problem of this visualization and other graphs in this report is the mismatch between the audience background knowledge on the topic and the chart. The chart looks like it was made for researchers who can draw meaningful conclusions about the difference in publications between computer vision and control theory, for example. 
 
@@ -47,9 +36,9 @@ I changed the title to focus on the difference - increase - that is most improta
 
 I talked to 5 people in total. I got great feedback from all of them. 
 
-At first I talked to my mother. And since she's not familiar with the AI topic, I thought if she understands the graph, that would mean the graph is working. However, I also wanted people to get the right kind of conclusion. 
+The first interviewee was not familiar with the AI topic. So I thought if she understands the graph, that would mean the graph is working. However, I also wanted people to get the right kind of conclusion. 
 
-*Professor, 60s* 
+*Adult, 60s* 
   * *Linguistics isn't doing well.*
   * *The graph is very simple.*
   * *Machine learning and pattern recognition are doing very well.* 
