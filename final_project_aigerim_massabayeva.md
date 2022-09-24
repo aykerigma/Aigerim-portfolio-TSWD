@@ -7,7 +7,42 @@ A project structure that outlines the major elements of your story.  Your Good C
 Summary 
 Structure 
 
-In this project I want to convince policy makers and general population to work/donate/raise awareness about develpoment
+In this project I want to convince policy makers and general population to work/donate/raise awareness about fast development of artificial intelligence that is not followed by equally fast development of relevant laws and policies. 
+
+This is my outline: 
+
+Problem statement: 
+Gap between AI progress and AI laws, policies 
+- Rise of AI 
+  - AI investments 
+  - Number of publications 
+  - Number of patents
+- Evidence of lack of AI laws
+  - Mentions of AI 
+  - AI bills by country
+
+
+Risks of this gap 
+- misaligned AI 
+- orthogonality thesis 
+- bad examples of misuse of AI
+
+Orthogonality thesis 
+Prediction of development - ??? No idea about dataset. Maybe just omit this part. 
+Risks 
+Companies compete without oversight - have a dataset, patents, publications
+Examples of how it’s already going wrong 
+Countries (dictatorships) do this to stay in power
+Example of Xinjiang 
+Lack of policies - have a dataset already, AI bills 
+Solutions: 
+Who’s working on this - cset 
+Donate 
+Advocate 
+Something else 
+
+
+
 
 ### Sketches
 
