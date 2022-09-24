@@ -1,15 +1,8 @@
 ## Final Project
 
-A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
-A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  
+In this project I want to inform policy makers about fast development of artificial intelligence that is not followed by equally fast development of relevant laws and policies. Intended outcome of reading this project is action to explore more on this topic, advocate, donate, and work directly on creating policies for safe development of AI.
 
 ### Project outline
-Summary 
-Structure 
-
-In this project I want to convince policy makers and general population to work/donate/raise awareness about fast development of artificial intelligence that is not followed by equally fast development of relevant laws and policies. 
-
-This is my outline: 
 
 Problem statement: 
 Gap between AI progress and AI laws, policies 
@@ -21,28 +14,17 @@ Gap between AI progress and AI laws, policies
   - Mentions of AI 
   - AI bills by country
 
-
-Risks of this gap 
+Risks of this gap: 
 - misaligned AI 
 - orthogonality thesis 
 - bad examples of misuse of AI
 
-Orthogonality thesis 
-Prediction of development - ??? No idea about dataset. Maybe just omit this part. 
-Risks 
-Companies compete without oversight - have a dataset, patents, publications
-Examples of how it’s already going wrong 
-Countries (dictatorships) do this to stay in power
-Example of Xinjiang 
-Lack of policies - have a dataset already, AI bills 
-Solutions: 
-Who’s working on this - cset 
-Donate 
-Advocate 
-Something else 
-
-
-
+Solutions:
+- Who is working on this already
+- What you can do
+  - Advocate
+  - Work on AI safety 
+  - Work in AI policy 
 
 ### Sketches
 
@@ -61,4 +43,4 @@ Source: 2022 AI Index Report, Human-Centered Artificial Intelligence Institue, S
 
 ### Method and Medium
 
-I am planning to use shorthand and create a longread with visualization and text. 
+I am planning to use Floursih and Tableau for creating charts and Shorthand for making the final project. 
