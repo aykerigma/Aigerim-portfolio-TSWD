@@ -13,12 +13,16 @@ In this project I want to convince policy makers and general population to work/
 
 ### Data
 
-[Publications and Patents by Company](/c_pubs.csv)
-Source: Private-sector AI-Related Activity Tracker, Center for Security of Emerging Technologies, https://parat.cset.tech 
+For the project I will use two data sources: publicly available data for AI Index Report by Stanford University's Human-Centered Artificial Intelligence Institue and Center for Security and Emerging Technology's database on progress in AI by top companies in the world. For now, I have identified three datasets that I will use. I may need to find more as I develop my project.  
 
-[AI Legislation Record]([https://docs.google.com/spreadsheets/d/1D_7XVaE4BK0DrEFRg0aLaQSYdGQ4YugA1OD3UPd4LMY/edit#gid=1815239521](https://docs.google.com/spreadsheets/d/1oZPYsTA83zZYapwDKvrs39A8CRoNv6YamNPJJZtOKzE/edit#gid=614387978)) 
-[AI Private Investment by Country]([https://docs.google.com/spreadsheets/d/1D_7XVaE4BK0DrEFRg0aLaQSYdGQ4YugA1OD3UPd4LMY/edit#gid=1815239521](https://docs.google.com/spreadsheets/d/1HsBaNYXv4QR8DlIDqkMJaUx4fBy2N4bVX_Isfp7jUp8/edit#gid=0)) 
+###### 1. [Publications and Patents by Company](/c_pubs.csv)
+Source: Private-sector AI-Related Activity Tracker, Center for Security and Emerging Technology, Georgetown University https://parat.cset.tech 
 
+###### 2. [AI Legislation Record](https://docs.google.com/spreadsheets/d/1oZPYsTA83zZYapwDKvrs39A8CRoNv6YamNPJJZtOKzE/edit#gid=614387978) 
+Source: 2022 AI Index Report, Human-Centered Artificial Intelligence Institue, Stanford University, https://aiindex.stanford.edu/report/
+
+###### 3. [AI Private Investment by Country](https://docs.google.com/spreadsheets/d/1HsBaNYXv4QR8DlIDqkMJaUx4fBy2N4bVX_Isfp7jUp8/edit#gid=0) 
+Source: 2022 AI Index Report, Human-Centered Artificial Intelligence Institue, Stanford University, https://aiindex.stanford.edu/report/
 
 ### Method and Medium
 
