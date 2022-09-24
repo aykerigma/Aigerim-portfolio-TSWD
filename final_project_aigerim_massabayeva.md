@@ -14,5 +14,7 @@ In this project I want to convince policy makers and general population to work/
 
 ### Data
 
+[Publications and Patents by Company](/c_pubs.csv)
+
 ### Method and Medium
 
