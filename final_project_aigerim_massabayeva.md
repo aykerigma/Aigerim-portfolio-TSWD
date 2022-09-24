@@ -26,3 +26,4 @@ Source: 2022 AI Index Report, Human-Centered Artificial Intelligence Institue, S
 
 ### Method and Medium
 
+I am planning to use shorthand and create a longread with visualization and text. 
