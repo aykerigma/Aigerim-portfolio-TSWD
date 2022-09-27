@@ -25,4 +25,5 @@ This is a portfolio of works completed for the Telling Stories with Data course
 #### * [Critique by Design](/aipub.md)
 
 
-### Final project
+### [Final project](/final_project_aigerim_massabayeva.md)
+
