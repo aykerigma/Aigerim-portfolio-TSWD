@@ -5,26 +5,30 @@ In this project I want to inform policy makers about fast development of artific
 ### Project outline
 
 Problem statement: 
+
 Gap between AI progress and AI laws, policies 
 - Rise of AI 
   - AI investments 
   - Number of publications 
   - Number of patents
 - Evidence of lack of AI laws
-  - Mentions of AI 
+  - Mentions of AI in legislative proceedings
   - AI bills by country
 
-Risks of this gap: 
-- misaligned AI 
-- orthogonality thesis 
-- bad examples of misuse of AI
+Risks of this gap
+- examples of current misuses of AI
+- theoretical framework of misaligned AI: orthogonality thesis 
+  - possible exmaples of misaligned AI in the future
 
 Solutions:
-- Who is working on this already
+
+- Who is working on this already? 
+  - AI policy: CSET
+  - AI Safety: MIRI
 - What you can do
-  - Advocate
-  - Work on AI safety 
-  - Work in AI policy 
+  - Advocate for AI policies
+  - Donate 
+  - Raise awareness
 
 ### Sketches
 
@@ -53,4 +57,6 @@ Source: 2022 AI Index Report, Human-Centered Artificial Intelligence Institue, S
 
 ### Method and Medium
 
-I am planning to use Floursih and Tableau for creating charts and Shorthand for making the final project. 
+I am planning to use mostly Floursih for creating charts and Shorthand for making the final project.
+I want to make some of the charts interactive, so that the reader can highlight a country or a company and see only its progression. I think Flourish interactive charts can be used for that. I also want to create a consistent color language, that's why Flourish can be useful here. 
+Shorthand will give me the opportunity to create a separate page that can be shared. And I like the idea of having a longread with all the relevant information and graphics. 
