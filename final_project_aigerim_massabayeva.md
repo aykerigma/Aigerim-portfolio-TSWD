@@ -32,6 +32,8 @@ Solutions:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11294652"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/11294737"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ### Data
 
 For the project I will use two data sources: publicly available data for AI Index Report by Stanford University's Human-Centered Artificial Intelligence Institue and Center for Security and Emerging Technology's database on progress in AI by top companies in the world. For now, I have identified three datasets that I will use. I may need to find more as I develop my project.  
