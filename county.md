@@ -25,3 +25,7 @@ Age distribution
 
 
 ### Income
+
+Median household income (in 2020 dollars), 2016-2020: $62,320 ([Census data]([https://www.census.gov/quickfacts/alleghenycountypennsylvania]))
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11363672"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
