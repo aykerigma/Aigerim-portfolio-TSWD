@@ -19,3 +19,9 @@ Age distribution
 ### Race 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11363519"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
 
+
+### Unemployment 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11363593"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
+
+
+### Income
