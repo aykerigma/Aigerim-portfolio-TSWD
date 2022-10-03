@@ -4,7 +4,18 @@ Population by county total
 Population by sex, proportion
 <div class="flourish-embed flourish-chart" data-src="visualisation/11361049"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
 
-###Alleghney county
+### Alleghney county
 
 Age distribution 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11361247"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
+
+
+
+### Greene 
+Age distribution 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11361999"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Race 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11363519"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
+
