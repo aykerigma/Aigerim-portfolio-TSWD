@@ -4,3 +4,7 @@ Population by county total
 Population by sex, proportion
 <div class="flourish-embed flourish-chart" data-src="visualisation/11361049"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
 
+###Alleghney county
+
+Age distribution 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11361247"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
