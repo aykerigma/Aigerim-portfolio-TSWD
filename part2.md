@@ -48,10 +48,14 @@ Person 2
 Person 3
 (Public policy student)
 
+'this is cool. A bit overwhelming.'
+She said that there are many colors and photos. 
+
 ### Changes
 
 1. Add title to each graph, write a couple of sentences explaning the main point. 
 2. Make clearer the connections between charts and the story. 
 3. Think about a unifying color pallete and choose background images accordingly.  
-4. 
+4. Add different types of transitions between slides in shorthand to signal if the transition is within the same topic or passing to a new section.
+5. Try to find data on papers published by universities to contrast with papers by companies. 
 
