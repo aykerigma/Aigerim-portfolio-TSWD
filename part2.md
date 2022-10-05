@@ -43,12 +43,13 @@ Person 1
 Person 2 
 (Person unfamiliar with neither computer science or public policy. She works in digital marketing)
 
-
+'Very interesting. Cool topic. Pictures are funny. I liked the charts.'
+'Maybe you can add that cases of misuse of AI are widely discussed?'
 
 Person 3
 (Public policy student)
 
-'this is cool. A bit overwhelming.'
+'This is cool. A bit overwhelming.'
 She said that there are many colors and photos. 
 
 ### Changes
