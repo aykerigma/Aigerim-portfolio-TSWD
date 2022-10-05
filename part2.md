@@ -1,4 +1,12 @@
-# User research 
+# Final project part II
+
+## Storyboard
+
+Here's a link to my storyboard in Shorthand
+
+<script src="https://carnegiemellon.shorthandstories.com/ai-is-developing-rapidly-but-few-laws-ensure-its-safety/embed.js"></script> 
+
+## User research 
 
 ### Target audience 
 
@@ -23,7 +31,14 @@ Wrap-up
 
 Thank you! Do you have any questions for me? 
 
-
 ### Results
+
+Person 1
+
+
+
+Person 2
+
+Person 3
 
 ### Changes
