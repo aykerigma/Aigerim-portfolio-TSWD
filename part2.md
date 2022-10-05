@@ -31,12 +31,27 @@ Thank you! Do you have any questions for me?
 
 ### Results
 
-Person 1
+Person 1 
+(Computer science PhD student)
+
+'Nice. Wow. Good. I like the story, full screen texts' 
+'transitions are of the same category. when you transition between sections, use another type of transition between slides'
+'are animal picuters intentional or placeholders? I thought it was sarcastic, like governments are doing nothing and foxes are'
+'shift the graph up for focus areas, add heading'
+'graphs are a little naked, I don't know what to take away from this. Add a heading with a key takeaway'
+
+Person 2 
+(Person unfamiliar with neither computer science or public policy. She works in digital marketing)
 
 
-
-Person 2
 
 Person 3
+(Public policy student)
 
 ### Changes
+
+1. Add title to each graph, write a couple of sentences explaning the main point. 
+2. Make clearer the connections between charts and the story. 
+3. Think about a unifying color pallete and choose background images accordingly.  
+4. 
+
