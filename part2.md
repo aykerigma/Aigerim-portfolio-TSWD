@@ -2,9 +2,7 @@
 
 ## Storyboard
 
-Here's a link to my storyboard in Shorthand
-
-<script src="https://carnegiemellon.shorthandstories.com/ai-is-developing-rapidly-but-few-laws-ensure-its-safety/embed.js"></script> 
+[Here's a link to my storyboard in Shorthand](/storyboard.md)
 
 ## User research 
 
