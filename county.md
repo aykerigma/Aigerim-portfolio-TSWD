@@ -15,25 +15,21 @@
 
 ### Population by age group, proportion
 
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/11398314"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 ### Population by race, proportion
 
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/11398294"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Age distribution 
-### Alleghney county
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/11361247"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
+### Employment status for population 16 and older
 
 
-### Greene 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11398393"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/11361999"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-
-# Race 
-<div class="flourish-embed flourish-chart" data-src="visualisation/11363519"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
 
 
 # Unemployment 
