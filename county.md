@@ -57,6 +57,4 @@ Median household income (in 2020 dollars), 2016-2020: $62,320 ([Census data]([ht
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11399242"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Renter population, units 
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/11363898"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
