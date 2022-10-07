@@ -9,13 +9,6 @@
 
 
 
-### Population by sex, proportion
-
-
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/11361049"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
-
-
 ### Population by age group, proportion
 
 
@@ -33,12 +26,6 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11398393"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
-### Household Income, proportion
-
-Median household income (in 2020 dollars), 2016-2020: $62,320 ([Census data]([https://www.census.gov/quickfacts/alleghenycountypennsylvania]))
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/11398426"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Allegheny, Household Income
 
