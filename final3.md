@@ -6,7 +6,7 @@
 
 [Part II](/part2.md)
 
-
+[Text from the story](/https://docs.google.com/document/d/1J8USITCTVnbMUMJxtaYdaDI3YVq1fae7OGyVj8y8Zqk/edit?usp=sharing)
 
 ### Target audience 
  
