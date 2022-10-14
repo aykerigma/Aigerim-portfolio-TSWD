@@ -6,6 +6,8 @@
 
 [Part II](/part2.md)
 
+
+
 ### Target audience 
  
 I didn't want to make my story limited only to one audience, either students or policy makers. I wanted to make it accessible and useful for a general audience because I think the issue of AI alignment are relevant and important for everyone. Which is why I assumed that my audience is not knowledgeable about AI but has interest in it. I tried to make my story as engaging as possible, simplifying technical terms, and making data visualization as easy-to-read as possible. 
