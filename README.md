@@ -5,7 +5,6 @@ This is a picture from a recent hike in Almaty mountains.
 
 <img src = 'mountains.jpeg' width = '500'/>
 
-
 # What I hope to learn 
 
 #### * to organize data 
@@ -15,15 +14,9 @@ This is a picture from a recent hike in Almaty mountains.
 # Portfolio
 
 This is a portfolio of works completed for the Telling Stories with Data course
-[link](/debt.md)
 
+### [Final project](/final3.md)
 
-### Assignment - Visualizing Government Debt
-#### * [Government debt by country](/debt.md)
+#### *[Government debt by country](/debt.md)
 
-### Assignment
-#### * [Critique by Design](/aipub.md)
-
-
-### [Final project](/final_project_aigerim_massabayeva.md)
-
+#### *[Critique by Design](/aipub.md)
