@@ -1,6 +1,6 @@
 ## Final project, part III
 
-Here's a link to shorthand with the final data story. https://carnegiemellon.shorthandstories.com/ai-is-developing-rapidly-but-few-laws-ensure-its-safety/index.html
+[Here's a link to shorthand with the final data story.](/https://carnegiemellon.shorthandstories.com/ai-is-developing-rapidly-but-few-laws-ensure-its-safety/index.html) 
 
 A few paragraphs that reflects on changes you made since the completion of Part II.  
 Talk about who you identified as the audience for your final data story. 
