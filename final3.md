@@ -31,7 +31,7 @@ References:
  
 Angwin, J., Larson, J., Kirchner, L., &amp; Mattu, S. (2016, May 23). Machine bias. ProPublica. Retrieved October 13, 2022, from https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing 
 
-Artificial Intelligence index. Stanford University | AI Index. (2022). Retrieved October 13, 2022, from https://aiindex.stanford.edu/ 
+Artificial Intelligence index. Stanford University, AI Index. (2022). Retrieved October 13, 2022, from https://aiindex.stanford.edu/ 
 
 Clark, J. (2019, March 7). Faulty reward functions in the wild. OpenAI. Retrieved October 13, 2022, from https://openai.com/blog/faulty-reward-functions/ 
 
