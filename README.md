@@ -1,5 +1,8 @@
 # About me
 
+[Resume](/resume_aigerim_massabayeva.pdf)
+
+
 I'm Aigerim, a second year MSPPM student. My pronouns are she/her. I'm from Almaty, Kazakhstan. In my free time I like hiking. 
 In Fall 2022, I took a course 'Telling Stories with Data' and this is a portfolio of my work. 
 
